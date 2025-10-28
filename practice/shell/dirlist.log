@@ -1,0 +1,14 @@
+.:
+total 124
+drwxr-xr-x 2 dsainvg dsainvg  4096 Oct 27 12:39 .
+-rw-r--r-- 1 dsainvg dsainvg     0 Oct 27 12:39 dirlist.log
+-rw-r--r-- 1 dsainvg dsainvg     0 Oct 27 12:38 listdir.txt
+-rw-r--r-- 1 dsainvg dsainvg 39045 Oct 27 12:19 bc.man
+-rw-r--r-- 1 dsainvg dsainvg    57 Oct 27 12:11 out.log
+-rwx--x--x 1 dsainvg dsainvg   298 Oct 27 12:11 shell0.sh
+-rw-r--r-- 1 dsainvg dsainvg     3 Oct 27 12:02 input.txt
+-rw-r--r-- 1 dsainvg dsainvg   152 Oct 27 11:54 thero.awk
+-rwxr-xr-x 1 dsainvg dsainvg 15776 Oct 26 13:43 a.out
+-rw-r--r-- 1 dsainvg dsainvg 40644 Oct 26 13:42 a.exe
+-rw-r--r-- 1 dsainvg dsainvg    35 Oct 26 13:42 a.c
+drwxr-xr-x 4 dsainvg dsainvg  4096 Oct 26 10:19 ..

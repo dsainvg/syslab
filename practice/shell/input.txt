@@ -1,0 +1,28 @@
+is there an issue with kill ??
+why ???
+killing itself is not possible ??
+whats problem here
+ok give command to kill it
+still not done
+dsainvg@Sai:~$ set | grep PPID
+PPID=2325
+dsainvg@Sai:~$ kill 2325
+-bash: kill: (2325) - Operation not permitted
+dsainvg@Sai:~$ kill -9 2325
+-bash: kill: (2325) - Operation not permitted
+dsainvg@Sai:$dsainvg@Sai:$ set | grep PPID
+PPID=2325
+dsainvg@Sai:~$ kill 2325
+-bash: kill: (2325) - Operation not permitted
+dsainvg@Sai:~$ kill -9 2325
+-bash: kill: (2325) - Operation not permitted
+dsainvg@Sai:~$
+ig there is issue with rights i have in it like im using wsl maybe im not user or sth like that can u confirm that
+dsainvg@Sai:~$ whoami
+id
+dsainvg
+uid=1000(dsainvg) gid=1000(dsainvg) groups=1000(dsainvg),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),107(netdev),1001(docker)
+dsainvg@Sai:~$
+it used to work once but sth happened
+what is problem in it
+list all promts i gave till now in this chat only dont give any other text other then that

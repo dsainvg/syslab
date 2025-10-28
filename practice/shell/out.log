@@ -1,0 +1,16 @@
+=== FOR LOOP: Line counts of *.txt files ===
+File: corpus.txt has 7 lines
+File: input.txt has 0 lines
+File: listdir.txt has 0 lines
+File: dirlist.log has 14 lines
+File: out.log has 5 lines
+
+=== WHILE LOOP: Numbered lines in bc.man (first 5 lines) ===
+Line 1: bc(1)                                       General Commands Manual                                      bc(1)
+Line 2: 
+Line 3: NAME
+Line 4:        bc - An arbitrary precision calculator language
+Line 5: 
+
+=== UNTIL LOOP: First writable, non-empty *.log file ===
+Writable & non-empty log file found: dirlist.log
